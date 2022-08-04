@@ -568,7 +568,7 @@ class MentionsInput extends React.Component {
     })
 
     // do nothing while a IME composition session is active
-    if (isComposing) return
+    // if (isComposing) return
 
     // refresh suggestions queries
     const el = this.inputElement
