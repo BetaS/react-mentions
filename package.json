@@ -5,6 +5,8 @@
   "main": "dist/react-mentions.cjs.js",
   "module": "dist/react-mentions.esm.js",
   "files": [
+    "src",
+    "jest",
     "dist"
   ],
   "scripts": {
